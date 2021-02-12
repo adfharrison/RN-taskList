@@ -9,7 +9,7 @@ First proper attempt at react native. built using Expo CLI, it is android and iO
 to clone to your local repo, click 'fork' in the top right corner of this repo, then when youre in your own repo, click
 'code' and copy the https link. then, in your desired location
 in your local directory, in your terminal type
-'git clone <copied URL>
+'git clone ---copied URL'
 
 # Using the code
 
